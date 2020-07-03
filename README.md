@@ -1,4 +1,4 @@
-# teste-cria-o-repositorio
+#soma-python
 aplicação feita para treinamento de uso do git
 
 programa para realizar calculos,
